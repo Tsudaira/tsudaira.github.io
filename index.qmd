@@ -1,13 +1,18 @@
 ---
-title: "tsudaira.github.io"
+title: "Improving your chances for a successful startup"
 ---
 
-This is a Quarto website.
+## **Introduction**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This app aims to provide a comprehensive visualisation of certain characteristics and trends of unicorn startup companies. It has the potential to reveal and inform on favourable conditions that may increase the potential of producing a unicorn.
 
-Linch is gay as hell
+### **Data Set**
 
+This app makes use of 2 datasets, namely 'List of unicorn startup companies' and 'Number of startups by country'. The idea behind the selection of these 2 datasets is to perform a comparative analysis between the 2 sets, to not just visualise successful countries and industries, but to determine the rate of unicorns based on the number of total startups in a country.
+
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
+```
 ```{r}
 1 + 1
 ```
