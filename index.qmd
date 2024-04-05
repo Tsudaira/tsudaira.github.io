@@ -4,7 +4,7 @@ title: "Driving the rise of Unicorn Startups"
 
 ### **Introduction**
 
-I am Jiaxian, a student at the National University of Singapore. This app serves to demonstrate various topics learned from this R course and aims to provide a comprehensive visualisation of certain characteristics and trends of unicorn startup companies. It has the potential to reveal and inform on favourable conditions that may increase the potential of producing a unicorn.
+This app serves to demonstrate various topics learned from this R course and aims to provide a comprehensive visualisation of certain characteristics and trends of unicorn startup companies. It has the potential to reveal and inform on favourable conditions that may increase the potential of producing a unicorn.
 
 #### **Data Set**
 
