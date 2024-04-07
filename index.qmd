@@ -8,7 +8,7 @@ Hi, I am Jiaxian, a student from NUS. This app serves to demonstrate various top
 
 #### **Data Set**
 
-This app makes use of 2 datasets, namely 'List of unicorn startup companies' and 'Number of startups by country'. The idea behind the selection of these 2 datasets is to perform a comparative analysis between the 2 sets, not just to visualise successful countries and industries, but to determine the rate of unicorns based on the number of total startups in a country.
+This app makes use of 2 datasets, namely 'List of unicorn startup companies' and 'Number of startups by country'. The idea behind the selection of these 2 datasets is to perform a comparative analysis between the 2 sets, not just to visualise successful countries and industries, but to reveal findings such as the rate of unicorns based on the number of total startups in a country.
 
 ### What makes a unicorn?
 
