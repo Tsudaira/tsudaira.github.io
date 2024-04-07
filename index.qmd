@@ -17,8 +17,9 @@ Apart from being part of our everyday vocabulary, they are also some of Singapor
 Given the rarity of this phenomenon, it is expectedly tough for business owners to achieve such status. Within the company, you must be able to run a tight ship and operate on novel ideas, but externally, several factors could make or break your chances before you even set out. Here, we take a look at the environmental factors surrounding some of the most successful unicorns in the world and see how factors such as geographical placement and industry trends can help you better position your startup.
 
 ```{=html}
-<iframe src="{tsudaira.github.io}/stacked_bar_chart" width="100%" height="1000"></iframe>
+<iframe height="1000" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
 ```
+
 ```{r}
 1 + 1
 ```
