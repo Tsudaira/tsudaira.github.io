@@ -17,9 +17,20 @@ Apart from being part of our everyday vocabulary, they are also some of Singapor
 Given the rarity of this phenomenon, it is expectedly tough for business owners to achieve such status. Within the company, you must be able to run a tight ship and operate on novel ideas, but externally, several factors could make or break your chances before you even set out. Here, we take a look at the environmental factors surrounding some of the most successful unicorns in the world and see how factors such as geographical placement and industry trends can help you better position your startup.
 
 ```{=html}
-<iframe height="1000" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
+<iframe height="100%" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
 ```
+Today, unicorns can be found globally, a stark contrast to a decade or two ago where the majority of them were founded in the United States. Looking at the number of startups by country, it is clear that the United States, China, and India take the lead on volume of startups founded. This indicates a supportive startup ecosystem in such countries, where the bulk of startups are headquartered in cities such as California, Shanghai, and Bengaluru. There is no question in operating in one of these 'Silicon Valleys', where innovation and funding are much easier to come by. However, although these are certainly popular, such cities are not the only regions where startups can find success.
 
-```{r}
-1 + 1
-```
+What is more intrguing and possibly more important, is the rate of emergence of unicorns in countries such as China, South Korea, and Israel. Combined, the startups founded in the 3 countries are only a fraction of the number located in the United States, but boast much higher success rates of unicorns, with China sporting an unbelievable 1 in 4 unicorns.
+
+A reliable and supportive ecosystem is needed to find success for your business, but instead of only looking towards popular cities in the US or India, less competitive but viable options can be seen in places like China and South Korea.
+
+Another factor that would affect the success of startups would be industry trends. We can refer to the donut charts for a better understanding of which industry dominates the unicorn landscape.
+
+Enterprise Technologies leads the pack with 30.3% of unicorns under the sector, followed closely by Finance, Retail, and Industrials at 17.7, 17.6, and 15.6% share respectively. Valuation wise, the data shows that the proportion of companies more or less equal the valuation of each sector. The one outlier being in Media with a 6.63% share of companies, but taking a 13% share in valuation. This is the result of ByteDance, the highest valued unicorn in the world, coming in at USD\$225 Billion.
+
+Although there is no definitive answer to which is the correct industry choice for your startup to make money, this donut chart may give further insights to which sectors are more reliable, or perhaps even identify which sectors may have a gap in the market.
+
+Looking more closely into industry trends, the provided bubble chart organises each unicorn by its valuation date and industry, with the bubble size corresponding to the valuation amount.
+
+Startup unicorns only began appearing en masse from around 2017, with a record number seen in 2021. In the past 5 years, Enterprise and Finance have measured great successes in both volume and valuation. However, the remaining sectors appear to be slowing down, with fewer unicorns and lower valuations since 2022.
