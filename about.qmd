@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+#### About this site
 
-```{r}
-1 + 1
-```
+Hi, I am Jiaxian, a student from NUS. This app serves to demonstrate various topics learned from this R course and aims to provide a comprehensive visualization of certain characteristics and trends of unicorn startup companies. It has the potential to reveal and inform on favorable conditions that may increase the potential of producing a unicorn.
+
+#### **Data Set**
+
+This app makes use of 2 datasets, namely 'List of unicorn startup companies' and 'Number of startups by country'. The idea behind the selection of these 2 datasets is to perform a comparative analysis between the 2 sets, not just to visualize successful countries and industries, but to reveal findings such as the rate of unicorns based on the number of total startups in a country.

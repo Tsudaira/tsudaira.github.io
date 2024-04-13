@@ -2,15 +2,7 @@
 title: "Driving the rise of Unicorn Startups"
 ---
 
-### **Introduction**
-
-Hi, I am Jiaxian, a student from NUS. This app serves to demonstrate various topics learned from this R course and aims to provide a comprehensive visualisation of certain characteristics and trends of unicorn startup companies. It has the potential to reveal and inform on favourable conditions that may increase the potential of producing a unicorn.
-
-#### **Data Set**
-
-This app makes use of 2 datasets, namely 'List of unicorn startup companies' and 'Number of startups by country'. The idea behind the selection of these 2 datasets is to perform a comparative analysis between the 2 sets, not just to visualise successful countries and industries, but to reveal findings such as the rate of unicorns based on the number of total startups in a country.
-
-### What makes a unicorn?
+## What makes a unicorn?
 
 Grab, Lazada, and Carousell. What do these have in common?
 
@@ -19,26 +11,32 @@ Apart from being part of our everyday vocabulary, they are also some of Singapor
 Given the rarity of this phenomenon, it is expectedly tough for business owners to achieve such status. Within the company, you must be able to run a tight ship and operate on novel ideas, but externally, several factors could make or break your chances before you even set out. Here, we take a look at the environmental factors surrounding some of the most successful unicorns in the world and see how factors such as geographical placement and industry trends can help you better position your startup.
 
 ```{=html}
-<iframe height="1500px" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
+<iframe height="2270px" width="100%" frameborder="no" src="https://tsudaira.shinyapps.io/final_project/"> </iframe>
 ```
 ### Rate of Unicorns by Country
 
-Today, unicorns can be found globally, a stark contrast to a decade or two ago when the majority of them were founded in the United States. Looking at the number of startups by country, it is clear that the United States, China, and India take the lead on the volume of startups founded. This indicates a supportive startup ecosystem in such countries, where the bulk of startups are headquartered in cities such as California, Shanghai, and Bengaluru. There is no question about operating in one of these 'Silicon Valleys', where innovation and funding are much easier to come by. However, although these are certainly popular, such cities are not the only regions where startups can find success.
+Today, unicorns can be found globally, a stark contrast to a decade or two ago when the majority of them were founded in the United States. Looking at the number of startups by country, it is clear that the United States leads the pack in terms of the number of unicorns produced, followed by China, and India. This indicates a supportive startup ecosystem in such countries, where the bulk of startups are headquartered in cities such as California, Shanghai, and Bengaluru, where innovation and funding are much easier to come by. However, although these are certainly popular, such cities are not the only regions where startups can find success.
 
-What is more intriguing and possibly more important, is the rate of emergence of unicorns in countries such as China, South Korea, and Israel. Combined, the startups founded in the 3 countries are only a fraction of the number located in the United States, but boast much higher success rates of unicorns, with China sporting an unbelievable 1 in 4 unicorns.
+What is more intriguing is the rate of emergence of unicorns in countries such as China, South Korea, and Israel. Combined, the startups founded in the 3 countries are only a fraction of the number located in the United States, but boast much higher success rates of unicorns, with China sporting an unbelievable 1 in 4 startups turning into unicorns.
 
-A reliable and supportive ecosystem is needed to find success for your business, but instead of only looking towards popular cities in the US or India, less competitive but viable options can be seen in places like China and South Korea.
+A reliable and supportive ecosystem is needed to find success for your business, but instead of only looking towards popular cities in the US or India, less competitive but viable options can be seen even in places such as Israel, Germany, and Singapore.
+
+From the Valuation Map, it is also seen that the United States holds the highest total valuation (\$2,052B) of unicorns. This indicates the strength of venture capital investments within the US itself. In second place is China, with \$707.67B among 173 unicorns. Compared to India with \$193.75B and 70 unicorns, the average valuation of unicorns in China is significantly higher. This might indicate a greater market potential for startups in China.
 
 ### What do they do?
 
-Another factor that would affect the success of startups would be industry trends. We can refer to the donut charts for a better understanding of which industry dominates the unicorn landscape.
-
-Enterprise Technologies leads the pack with 30.3% of unicorns under the sector, followed closely by Finance, Retail, and Industrials at 17.7, 17.6, and 15.6% share respectively. Valuation-wise, the data shows that the proportion of companies more or less equals the valuation of each sector. The one outlier is in Media with a 6.63% share of companies, but taking a 13% share in valuation. This is the result of ByteDance, the highest-valued unicorn in the world, coming in at USD\$225 Billion.
-
-Although there is no definitive answer to which is the correct industry choice for your startup to make money, this donut chart may give further insights into which sectors are more reliable, or perhaps even identify which sectors may have a gap in the market.
+Another factor that would affect the success of startups is be industry they operate in. Based on the Industry treemaps, it is observed that most unicorns are found in Enterprise Tech, followed by Finance and Retail. The total valuation corresponds to the number of unicorns, highlighting the strong growth potential and investor confidence in these industries. On the other hand, Insurance sees the least number of startup unicorns, with the lowest valuation.
 
 ### Recent Trends
 
-Looking more closely into industry trends, the provided bubble chart organises each unicorn by its valuation date and industry, with the bubble size corresponding to the valuation amount.
+Looking into industry trends, it can be seen that there has been a steady growth of unicorn startups since 2014. A significant spike in unicorns occurred during the height of Covid-19 in 2021 and 2022, likely fueled by a global push for digitalization and remote enterprise solutions. Since then, the numbers in 2023 have dropped back down, below that of 2020, likely a response to the increase in the US Fed Funds Interest Rates.
 
-Startup unicorns only began appearing en masse from around 2017, with a record number seen in 2021. In the past 5 years, Enterprise and Finance have measured great successes in both volume and valuation. However, the remaining sectors appear to be slowing down, with fewer unicorns and lower valuations since 2022.
+Looking closer at the valuation trends provided by the bubble chart, Enterprise and Finance have measured great successes in both volume and valuation over the past 5 years, whereas the remaining sectors appear to be slowing down, with fewer unicorns and lower valuations on average since 2022.
+
+## Conclusion
+
+Overall, the United States and China are the world's leaders when it comes to producing startup unicorns, with a supportive environment and a hungry investor landscape. However, it should also be noted that countries such as France, Brazil, and Singapore, only sport just over 1000 startups but have a track record of over 1% turned unicorns could be potential sites for startups.
+
+Industry-wise, Enterprise Tech, and Finance continue to show growth potential and are therefore the safest options for achieving unicorn status. However, given that many unicorns were made through some form of industry-disrupting service, current slow-moving industries may reveal higher chances of capturing market share.
+
+However, looking at the past year's trends and the economic landscape, it is not the best time for startups. With increased interest rates leading to fewer loans and funding, the number of unicorns is beginning to fall off, with many startups even shutting down due to a lack of funding.
